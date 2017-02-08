@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To Do List
 Réaliser une todo list permettant d'ajouter des choses à se rappeler. Une fois qu'une chose est faite, la rayer. Rajouter la possibilité de n'afficher que les tâches faites, les tâches à faire ou toutes les tâches.
 
@@ -55,3 +56,6 @@ Réaliser une todo list permettant d'ajouter des choses à se rappeler. Une fois
 * Décomposer un problème en sous-problèmes
 * Dessiner et schématiser tous les problèmes
 * Step by step
+=======
+# Todoswitch
+>>>>>>> 989bd6dcd6676a28155b55c25e0af5d2eae9f407
